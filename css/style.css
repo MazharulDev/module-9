@@ -22,21 +22,29 @@ a{
     border-radius: 5px;
 }
 /* header style */
+header{
+    background-color: #562EFF;
+    width: 100%;
+}
 .header{
     display: flex;
+    width: 940px;
     justify-content: center;
-    background-color: #562EFF;
     justify-content: space-between;
+    margin-left: 200px;
+    
+    
 }
 .logo-text{
     display: flex;
     align-items: center;
-    margin-left: 200px;
+    
 }
 .nav-pro{
     display: flex;
     align-items: center;
-    margin-right: 200px;
+    
+    
 }
 .nav-pro a{
     margin-right: 30px;
