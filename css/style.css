@@ -21,6 +21,43 @@ a{
     margin-top: 20px;
     border-radius: 5px;
 }
+/* header style */
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: #562EFF;
+    justify-content: space-between;
+}
+.logo-text{
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+}
+.nav-pro{
+    display: flex;
+    align-items: center;
+    margin-right: 200px;
+}
+.nav-pro a{
+    margin-right: 30px;
+    color: #fff;
+}
+.head-title{
+    margin-left: 20px;
+    color: #fff;
+}
+.profile-img img{
+    width: 51px;
+    height: 51px;
+}
+.icon img{
+    width: 40px;
+    height: 51px;
+    
+}
+
+
+
 /* top player style */
 .top-players{
     margin-bottom: 30px;
